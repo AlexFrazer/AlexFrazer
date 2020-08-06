@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Alex Frazer. Frontend web developer.
+
+### 🔭 What I know
+- React
+- TypeScript
+- Rust
+- Functional programming
+- Component libraries
+
+### 📫 How to reach me: ...
+frazer@alexfrazer.dev
 
 <!--
 **AlexFrazer/AlexFrazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
